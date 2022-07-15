@@ -1,0 +1,63 @@
+Total Female Conributions
+[54, 79, 79, 57, 73, 65]
+Sum: 407
+Total Male Conributions
+[88, 89, 82, 49, 57, 70]
+Sum: 435
+Total Female Answers
+[17, 32, 34, 23, 24, 8]
+Sum: 138
+Total Male Answers
+[18, 34, 36, 13, 14, 11]
+Sum: 126
+Total Female Questions
+[37, 47, 45, 34, 49, 57]
+Sum: 269
+Total Male Questions
+[70, 55, 46, 36, 43, 59]
+Sum: 309
+
+Correct Female Tasks
+[28, 31, 28, 28, 29, 21, 24, 17]
+Sum: 206
+
+Incorrect Female Tasks
+[0, 1, 2, 0, 1, 1, 4, 5]
+Sum: 14
+Missing Female Tasks
+[5, 1, 3, 5, 3, 11, 5, 11]
+Sum: 44
+Correct Male Tasks
+[32, 27, 24, 23, 26, 24, 21, 17]
+Sum: 194
+Incorrect Male Tasks
+[1, 5, 3, 0, 1, 3, 4, 5]
+Sum: 22
+Missing Male Tasks
+[5, 6, 11, 14, 10, 10, 13, 14]
+Sum: 83
+
+Additional Female Tasks
+[23, 3, 6, 17, 15, 12]
+Sum: 76
+No Additional Female Tasks
+[10, 30, 27, 16, 18, 21]
+Sum: 122
+Additional Male Tasks
+[18, 2, 4, 11, 8, 14]
+Sum: 57
+No Additional Male Tasks
+[20, 36, 34, 27, 30, 24]
+Sum: 171
+Additional Female Sprites
+[9, 14, 3, 18, 8, 17, 19, 16]
+Sum: 104
+No Additional Female Sprites
+[24, 19, 30, 15, 25, 16, 14, 17]
+Sum: 160
+Additional Male Sprites
+[5, 18, 1, 11, 3, 16, 12, 17]
+Sum: 83
+No Additional Male Sprites
+[33, 20, 37, 27, 35, 22, 26, 21]
+Sum: 221
