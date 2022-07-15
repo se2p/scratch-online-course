@@ -4,12 +4,12 @@ Replication package for our paper "Gender-dependent Contribution, Code and Creat
 
 ```
 @article{,
-  author    = {Isabella Graßl and
-               Gordon Fraser},
+  author    = {Isabella Graßl and Gordon Fraser},
   title     = {Gender-dependent Contribution, Code and Creativity in a Virtual Programming Course},
   booktitle = {{The 17th Workshop in Primary and Secondary Computing Education}},
   year      = {2022}
 }
+```
 
 ### Structure
 - `Material`:
